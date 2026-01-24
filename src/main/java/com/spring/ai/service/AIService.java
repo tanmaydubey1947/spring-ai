@@ -11,8 +11,7 @@ public class AIService {
 
     public String getResponse(String prompt) {
         return chatClient
-                .prompt()
-                .user(prompt)
+                .prompt(prompt)
                 .call()
                 .content();
     }
