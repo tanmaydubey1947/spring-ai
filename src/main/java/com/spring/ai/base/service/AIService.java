@@ -1,4 +1,4 @@
-package com.spring.ai.service;
+package com.spring.ai.base.service;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.spring.ai.configuration;
+package com.spring.ai.base.configuration;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.openai.OpenAiChatModel;
