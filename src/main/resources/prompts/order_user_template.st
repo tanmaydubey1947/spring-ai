@@ -1,0 +1,1 @@
+A customer named {customerName} has reached out regarding their order with ID {orderId}. Customer's message: {customerMessage}. Please provide a helpful and polite response addressing the customer's concerns.
