@@ -15,7 +15,7 @@ public class OrderSupportAIAssistantController {
 
     @GetMapping("/v1/assist")
     public String assistOrderSupportV1(@RequestParam String orderId, @RequestParam String customerName,
-                                     @RequestParam String customerMessage) {
+                                       @RequestParam String customerMessage) {
         return service.assistOrderSupportV1(orderId, customerName, customerMessage);
     }
 
