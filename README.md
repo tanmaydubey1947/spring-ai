@@ -9,3 +9,4 @@ https://github.com/orgs/spring-ai-course/repositories
 3. Spring Advisor
 4. Chat Options & Streaming Responses
 5. Structured Output & Type Safety
+6. Stateful API with Chat Memory
